@@ -119,7 +119,7 @@ var app = new Vue({
           this.roles_showed_all = true;
         }
       } else {
-        alert("Roller zaten gösteriliyor, sarhoş musun?");
+        alert("Roller zaten gösteriliyor.");
       }
     },
   },
